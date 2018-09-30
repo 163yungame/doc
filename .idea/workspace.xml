@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa6f6ae-c43f-4e27-b176-50459e3d5514" name="Default Changelist" comment="" />
+    <list default="true" id="faa6f6ae-c43f-4e27-b176-50459e3d5514" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_config/docs.js" beforeDir="false" afterPath="$PROJECT_DIR$/site_config/docs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_config/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/site_config/site.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21371,7 +21375,7 @@
           <entry key="js" value="31" />
           <entry key="json" value="4" />
           <entry key="jsx" value="33" />
-          <entry key="md" value="16" />
+          <entry key="md" value="18" />
           <entry key="png" value="1" />
           <entry key="rnc" value="1" />
           <entry key="scss" value="9" />
@@ -21386,7 +21390,7 @@
           <entry key="JSON" value="5" />
           <entry key="JSX Harmony" value="33" />
           <entry key="JavaScript" value="31" />
-          <entry key="Markdown" value="4" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="RNG Compact" value="1" />
           <entry key="SCSS" value="9" />
@@ -21403,10 +21407,10 @@
         <counts>
           <entry key="gitignore" value="34" />
           <entry key="html" value="5" />
-          <entry key="js" value="263" />
+          <entry key="js" value="302" />
           <entry key="json" value="2" />
           <entry key="jsx" value="581" />
-          <entry key="md" value="592" />
+          <entry key="md" value="806" />
           <entry key="scss" value="33" />
           <entry key="txt" value="15" />
         </counts>
@@ -21416,8 +21420,8 @@
           <entry key="HTML" value="5" />
           <entry key="JSON" value="2" />
           <entry key="JSX Harmony" value="581" />
-          <entry key="JavaScript" value="263" />
-          <entry key="Markdown" value="589" />
+          <entry key="JavaScript" value="302" />
+          <entry key="Markdown" value="803" />
           <entry key="PLAIN_TEXT" value="52" />
           <entry key="SCSS" value="33" />
         </counts>
@@ -21429,18 +21433,46 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site_config/docs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="189">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/zh-cn/resources/resources.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-172">
+                <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/zh-cn/resources/resources.md">
+        <entry file="file://$PROJECT_DIR$/docs/zh-cn/server/php_sign_demo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="297">
-                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <first_editor relative-caret-position="270">
+                <caret line="10" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/zh-cn/server/python_sign_demo.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -21467,16 +21499,16 @@
         <entry file="file://$PROJECT_DIR$/site_config/home.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2322">
-              <caret line="86" column="33" lean-forward="true" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+              <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -21513,28 +21545,7 @@
         <entry file="file://$PROJECT_DIR$/site_config/site.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="313">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/zh-cn/client/gamesdk.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/sidemenu/item.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -21590,12 +21601,14 @@
         <option value="$PROJECT_DIR$/docs/zh-cn/img/faq.md" />
         <option value="$PROJECT_DIR$/docs/zh-cn/server/faq.md" />
         <option value="$PROJECT_DIR$/docs/zh-cn/resources.md" />
-        <option value="$PROJECT_DIR$/site_config/site.js" />
-        <option value="$PROJECT_DIR$/site_config/docs.js" />
-        <option value="$PROJECT_DIR$/docs/zh-cn/resources/resources.md" />
         <option value="$PROJECT_DIR$/docs/zh-cn/client/faq.md" />
         <option value="$PROJECT_DIR$/site_config/home.jsx" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/docs/zh-cn/server/php_sign_demo.md" />
+        <option value="$PROJECT_DIR$/docs/zh-cn/server/python_sign_demo.md" />
+        <option value="$PROJECT_DIR$/site_config/site.js" />
+        <option value="$PROJECT_DIR$/site_config/docs.js" />
+        <option value="$PROJECT_DIR$/docs/zh-cn/resources/resources.md" />
       </list>
     </option>
   </component>
@@ -21643,7 +21656,32 @@
             <path>
               <item name="doc" type="b2602c69:ProjectViewProjectNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="zh-cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="zh-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="zh-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="doc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="site_config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -21704,7 +21742,7 @@
       <workItem from="1538191310178" duration="15520000" />
       <workItem from="1538268541330" duration="2928000" />
       <workItem from="1538277666260" duration="52000" />
-      <workItem from="1538277754204" duration="4074000" />
+      <workItem from="1538277754204" duration="5648000" />
     </task>
     <task id="LOCAL-00001" summary="delete md">
       <created>1538204173675</created>
@@ -21731,7 +21769,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22574000" />
+    <option name="totallyTimeSpent" value="24148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -21750,7 +21788,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3319012" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3319012" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32975295" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -21797,16 +21835,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/blogDetail.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/structural.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="129" column="16" selection-start-line="129" selection-start-column="16" selection-end-line="129" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zh-cn/community/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -22084,13 +22112,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site_config/docs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/zh-cn/client/faq.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -22115,11 +22136,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/zh-cn/resources/resources.md">
+    <entry file="file://$PROJECT_DIR$/site_config/home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="86" column="33" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/zh-cn/server/php_sign_demo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="297">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <first_editor relative-caret-position="270">
+            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/zh-cn/server/python_sign_demo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -22130,21 +22177,26 @@
     <entry file="file://$PROJECT_DIR$/site_config/site.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="46" />
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site_config/home.jsx">
+    <entry file="file://$PROJECT_DIR$/site_config/docs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2322">
-          <caret line="86" column="33" lean-forward="true" selection-start-line="86" selection-start-column="33" selection-end-line="86" selection-end-column="33" />
+        <state relative-caret-position="189">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+    <entry file="file://$PROJECT_DIR$/docs/zh-cn/resources/resources.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-172">
+            <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

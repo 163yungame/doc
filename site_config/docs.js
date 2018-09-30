@@ -5,7 +5,7 @@ export default {
                 title: '接入文档',
                 children: [
                     {
-                        title: '资源下载',
+                        title: '接入指引',
                         key: 'resources',
                         link: '/zh-cn/docs/resources/resources.html',
                     },
@@ -30,6 +30,14 @@ export default {
                             {
                                 title: '接入指南',
                                 link: '/zh-cn/docs/server/cloudgame-server-doc.html',
+                            },
+                            {
+                                title: 'php下单签名示例',
+                                link: '/zh-cn/docs/server/php_sign_demo.html',
+                            },
+                            {
+                                title: 'python下单签名示例',
+                                link: '/zh-cn/docs/server/python_sign_demo.html',
                             },
                             {
                                 title: 'Q&A',

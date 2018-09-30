@@ -13,7 +13,7 @@ export default {
       },
       {
           key: 'resources',
-          text: '资源下载',
+          text: '接入指引',
           link: '/zh-cn/docs/resources/resources.html',
       },
       {
